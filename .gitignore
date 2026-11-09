@@ -1,0 +1,17 @@
+#python and local database 
+.venv/
+__pycache__/
+*.pyc
+*.db
+data/
+
+#Local Securt keys 
+.env
+cloud.yaml
+*.pem
+
+#terraform securts 
+terraform/*.tfvars
+**/.terraform/
+*.tfstate
+*.tfstate.*

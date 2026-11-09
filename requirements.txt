@@ -1,0 +1,5 @@
+#LIBS USED BY PYTHON
+Flask>=3.0,<4  
+prometheus-flask-exporter>=0.23,<1 
+gunicorn>=22,<24
+pytest>=8,<10
